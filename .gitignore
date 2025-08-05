@@ -1,0 +1,34 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+env/
+venv/
+ENV/
+.VENV/
+.venv/
+
+# VS Code settings
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+
+# Flask logs
+*.log
+
+# Downloads folder
+downloads/
+
+# Ignore ffmpeg and yt-dlp
+ffmpeg-7.1.1-full_build/
+ffmpeg.exe
+yt-dlp/
+yt-dlp.exe
